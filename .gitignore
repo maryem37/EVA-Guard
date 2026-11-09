@@ -28,3 +28,4 @@ node*/
 keystore/
 pwd.txt
 *.ipc
+infra/genesis.json
