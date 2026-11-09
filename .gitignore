@@ -21,3 +21,10 @@ venv/
 
 # OS
 .DS_Store
+
+# Réseau privé Geth (sécurité)
+eva-data/
+node*/
+keystore/
+pwd.txt
+*.ipc
